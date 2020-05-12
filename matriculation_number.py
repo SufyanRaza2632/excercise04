@@ -1,4 +1,4 @@
-matriculation_number = input ("enter any number")                     #Number in String 
+matriculation_number = input ("enter any number ")                     #Number in String 
 matriculation_number = int(matriculation_number)                      #convert string to integer
 print (matriculation_number)
 number = matriculation_number                                         #create another variable to store the value of entered number

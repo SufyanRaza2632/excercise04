@@ -8,4 +8,4 @@ The major differences in the source code of both verions are
 -Also since the Pyhton takes the type of input as string, due to which type casting was used in several places.
 -In C we can tell what input we are expecting, due to which there was no type casting in this particular example.
 
--Apart from the differences there are a lot of similarities, if we look as a whole the basic algorithm is exactly the same in both the versions  
+-Apart from the differences there are a lot of similarities, if we look as a whole the basic algorithm is exactly the same in both the versions   
